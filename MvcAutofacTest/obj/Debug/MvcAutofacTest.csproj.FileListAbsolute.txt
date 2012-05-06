@@ -1,0 +1,10 @@
+c:\users\nchoudhury\documents\visual studio 2010\Projects\MvcAutofacTest\MvcAutofacTest\bin\MvcAutofacTest.dll
+c:\users\nchoudhury\documents\visual studio 2010\Projects\MvcAutofacTest\MvcAutofacTest\bin\MvcAutofacTest.pdb
+c:\users\nchoudhury\documents\visual studio 2010\Projects\MvcAutofacTest\MvcAutofacTest\bin\Autofac.dll
+c:\users\nchoudhury\documents\visual studio 2010\Projects\MvcAutofacTest\MvcAutofacTest\bin\Autofac.Integration.Mvc.dll
+c:\users\nchoudhury\documents\visual studio 2010\Projects\MvcAutofacTest\MvcAutofacTest\bin\EntityFramework.dll
+c:\users\nchoudhury\documents\visual studio 2010\Projects\MvcAutofacTest\MvcAutofacTest\bin\Autofac.xml
+c:\users\nchoudhury\documents\visual studio 2010\Projects\MvcAutofacTest\MvcAutofacTest\bin\EntityFramework.xml
+c:\users\nchoudhury\documents\visual studio 2010\Projects\MvcAutofacTest\MvcAutofacTest\obj\Debug\ResolveAssemblyReference.cache
+c:\users\nchoudhury\documents\visual studio 2010\Projects\MvcAutofacTest\MvcAutofacTest\obj\Debug\MvcAutofacTest.dll
+c:\users\nchoudhury\documents\visual studio 2010\Projects\MvcAutofacTest\MvcAutofacTest\obj\Debug\MvcAutofacTest.pdb
